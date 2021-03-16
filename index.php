@@ -9,7 +9,7 @@
     <title>PHP Intro</title>
 </head>
 <body>
-    <h1>Manejador de tareas</h1>
+    <h1>Manejador de tareas PHP Intro - D13</h1>
 
     <form action="store.php" method="POST">
         <label for="tarea">Nombre de Tarea</label><br>
